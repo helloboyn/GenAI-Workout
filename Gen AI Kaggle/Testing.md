@@ -2,7 +2,7 @@
 
 ## 1. Complete the Intro Unit – *Foundational Large Language Models & Text Generation*
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2&ab_channel=Kaggle) for this unit.
-- 📖 Read the *Foundational Large Language Models & Text Generation* [whitepaper](Gen AI Kaggle/1. Google Foundational LLM & Text Generation.pdf).
+- 📖 Read the *Foundational Large Language Models & Text Generation* [whitepaper](https://github.com/helloboyn/GenAI-Workout/blob/main/Gen%20AI%20Kaggle/1.%20Google%20Foundational%20LLM%20%26%20Text%20Generation.pdf).
 
 ## 2. Complete Unit 1 – *Prompt Engineering*
 - 🎧 Listen to the summary podcast episode for this unit.
