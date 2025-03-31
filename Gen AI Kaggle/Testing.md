@@ -1,7 +1,7 @@
 # Today's Assignments
 
 ## 1. Complete the Intro Unit – *Foundational Large Language Models & Text Generation*
-- 🎧 Listen to the summary podcast episode for this unit.
+- 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2&ab_channel=Kaggle) for this unit.
 - 📖 Read the *Foundational Large Language Models & Text Generation* whitepaper.
 
 ## 2. Complete Unit 1 – *Prompt Engineering*
