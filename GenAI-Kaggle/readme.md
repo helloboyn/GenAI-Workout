@@ -1,4 +1,4 @@
-[Whitepaper Companion Podcast]https://youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&si=_GDz2GWD57pS2cOg
+[Whitepaper Companion Podcast](https://youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&si=_GDz2GWD57pS2cOg)
 # Part 1
 
 ## 1. Complete the Intro Unit – "Foundational Large Language Models & Text Generation"
