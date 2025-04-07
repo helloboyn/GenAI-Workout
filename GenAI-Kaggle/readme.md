@@ -29,3 +29,6 @@ Today you’ll explore:
 - **Codelab 2:** Learn to evaluate LLM responses using **autoraters and structured output**.
 
 Happy Learning! 🚀
+
+
+Part 2
