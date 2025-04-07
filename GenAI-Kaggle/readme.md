@@ -1,4 +1,4 @@
-# Today's Assignments
+# Part 1
 
 ## 1. Complete the Intro Unit – "Foundational Large Language Models & Text Generation"
 - 🎧 Listen to the summary podcast episode for this unit.
