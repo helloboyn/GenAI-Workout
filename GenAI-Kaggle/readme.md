@@ -3,7 +3,7 @@
 
 ## 1. Complete the Intro Unit – "Foundational Large Language Models & Text Generation"
 - 🎧 Listen to the summary podcast episode for this unit.
-- 📖 Read the "Foundational Large Language Models & Text Generation" whitepaper.
+- 📖 Read the "1 Foundational Large Language Models & Text Generation" whitepaper.
 
 ## 2. Complete Unit 1 – "Prompt Engineering"
 - 🎧 Listen to the summary podcast episode for this unit.
