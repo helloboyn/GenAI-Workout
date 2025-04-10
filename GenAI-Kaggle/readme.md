@@ -21,7 +21,7 @@
 - Evaluating LLMs effectively.
 
 
-# 3. Embeddings and Vector Stores/Databases:
+## 3. Embeddings and Vector Stores/Databases:
 
 - 🎧 Listen to the [summary podcast episode](youtube.com/watch?v=xCAVsst6WJ8) for this unit.
 - 📄 To complement the podcast, read the [“Embeddings and Vector Stores/Databases”](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Embeddings%20%26%20Vector%20Stores.pdf).
