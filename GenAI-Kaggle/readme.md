@@ -6,7 +6,7 @@
 - 💻 
 
 ## 1. Foundational Large Language Models & Text Generation:
-- 🎧 Listen to the [summary podcast episode](https://www.youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE) for all the unit. 
+- 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U) for all the unit. 
 - 📖 Read the "[Foundational Large Language Models & Text Generation"](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Foundational%20Large%20Language%20Models%20%26%20Text%20Generation.pdf)
 
 ## 2. Prompt Engineering:
