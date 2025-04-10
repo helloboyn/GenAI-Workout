@@ -6,8 +6,8 @@
 - 📖 Read the "[1 Foundational Large Language Models & Text Generation"](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Foundational%20Large%20Language%20Models%20%26%20Text%20Generation.pdf)
 
 ## 2. Complete Unit 1 – "Prompt Engineering"
-- 🎧 Listen to the summary podcast episode for this unit.
-- 📖 Read the "Prompt Engineering" whitepaper.
+- 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY) for this unit.
+- 📖 Read the "[Prompt Engineering](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Prompt%20Engineering.pdf)"
 - 🏗️ Complete these codelabs on Kaggle:
   - [Prompting fundamentals](https://www.kaggle.com/)
   - [Evaluation and structured data](https://www.kaggle.com/)
