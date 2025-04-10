@@ -1,15 +1,15 @@
 [Whitepaper Companion Podcast](https://youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&si=_GDz2GWD57pS2cOg)
 
 [Gen AI Intensive Course with Google Live](https://youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&si=iyUSv3USuEF-ysfc)
-# Unit 1: Foundational Large Language Models & Text Generation:
+
 
 - 💻 
 
-## 1. Complete the Intro Unit – "Foundational Large Language Models & Text Generation"
+## 1. Foundational Large Language Models & Text Generation
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE) for all the unit. 
 - 📖 Read the "[Foundational Large Language Models & Text Generation"](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Foundational%20Large%20Language%20Models%20%26%20Text%20Generation.pdf)
 
-## 2. Complete Unit 1 – "Prompt Engineering"
+## 2. Prompt Engineering:
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY) for this unit.
 - 📖 Read the "[Prompt Engineering](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Prompt%20Engineering.pdf)" and [Evaluating Large Language Models](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Evaluating%20LLM%20Principles%20Approaches%20and%20Applications.pdf)
 - 🏗️ Complete these codelabs on Kaggle:
@@ -21,7 +21,7 @@
 - Evaluating LLMs effectively.
 
 
-## 📘 Complete Unit 2: Embeddings and Vector Stores/Databases
+# 3. Embeddings and Vector Stores/Databases:
 
 - 🎧 Listen to the [summary podcast episode](youtube.com/watch?v=xCAVsst6WJ8) for this unit.
 - 📄 To complement the podcast, read the [“Embeddings and Vector Stores/Databases”](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Embeddings%20%26%20Vector%20Stores.pdf).
