@@ -7,7 +7,7 @@
 
 ## 1. Foundational Large Language Models & Text Generation:
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U) for all the unit. 
-- 📖 Read the "[Foundational Large Language Models & Text Generation"](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Foundational%20Large%20Language%20Models%20%26%20Text%20Generation.pdf)
+- 📖 Read the "[Foundational Large Language Models & Text Generation"](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Foundational%20LLM%20%26%20Text%20Generation.pdf)
 
 ## 2. Prompt Engineering:
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY) for this unit.
@@ -32,4 +32,35 @@
 
 
 - Today, you'll dive into the foundational concepts behind embeddings and vector databases, and discover how they can integrate real-time or specialized data into your LLM-based application. You'll also examine their geometric capabilities for classifying and comparing text, along with methods for evaluating embeddings.
+
+
+
+
+## 3. Generative AI Agents
+
+- 🎧 Listen to the [summary podcast episode](https://open.spotify.com/episode/4DuquhTWzW5RXnMQfCgmQj) for this unit.
+- 📖 To complement the podcast, read the ["Generative AI Agents" whitepaper](https://storage.googleapis.com/deepmind-media/gemini/generative-ai-agents.pdf).
+- 💻 Complete these codelabs on Kaggle:
+  1. [Talk](https://www.kaggle.com/code/kernelsandy/talk-to-a-database-with-function-calling) to a database with function calling.
+  2. [Build](https://www.kaggle.com/code/kernelsandy/build-an-agentic-ordering-system-in-langgraph) an agentic ordering system in LangGraph.
+
+---
+
+## 2. [Optional] Advanced 3b - **"Agents Companion"**
+
+- 🎧 Listen to the [summary podcast episode](youtube.com/watch?v=D3Kaqz7VW28) for this unit.
+- 📖 Read the advanced ["Agents Companion"]().
+- 🤖 Want to have an [interactive conversation](https://notebooklm.google.com/)? Try adding the whitepaper to NotebookLM.
+
+---
+
+## 💡 What You’ll Learn
+
+Learn to build sophisticated AI agents by understanding their core components and the iterative development process. You'll also learn more about advanced agentic architectures and approaches such as:
+
+- Multi-agent systems  
+- Agent evaluation  
+- And more!
+
+The codelabs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot (including an example using Gemini 2.0’s [Live API](https://ai.google.dev/gemini-api/docs/function-calling)), and learn how to build a LangGraph agent that takes orders in a café.
 
