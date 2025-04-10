@@ -2,7 +2,6 @@
 
 [Gen AI Intensive Course with Google Live](https://youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&si=iyUSv3USuEF-ysfc)
 
-
 - 💻 
 
 ## 1. Foundational Large Language Models & Text Generation:
@@ -20,7 +19,6 @@
 - The art of prompt engineering for optimal LLM interaction.
 - Evaluating LLMs effectively.
 
-
 ## 3. Embeddings and Vector Stores/Databases:
 
 - 🎧 Listen to the [summary podcast episode](youtube.com/watch?v=xCAVsst6WJ8) for this unit.
@@ -30,13 +28,10 @@
   2. [Explore](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/embeddings-and-similarity-scores.ipynb) text similarity with embeddings.
   3. [Build](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/classifying-embeddings-with-keras.ipynb) a neural classification network with Keras using embeddings.
 
-
 - Today, you'll dive into the foundational concepts behind embeddings and vector databases, and discover how they can integrate real-time or specialized data into your LLM-based application. You'll also examine their geometric capabilities for classifying and comparing text, along with methods for evaluating embeddings.
 
 
-
-
-## 3. Generative AI Agents
+## 4. Generative AI Agents
 
 - 🎧 Listen to the [summary podcast episode](youtube.com/watch?v=D3Kaqz7VW28) for this unit.
 - 📖 To complement the podcast, read the ["Generative AI Agents" whitepaper](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Agents.pdf).
@@ -44,14 +39,10 @@
   1. [Talk](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/function-calling-with-the-gemini-api.ipynb) to a database with function calling.
   2. [Build](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/building-an-agent-with-langgraph.ipynb) an agentic ordering system in LangGraph.
 
----
-
-## 4. Advanced Agents Companion
+## 5. Advanced Agents Companion
 
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=7rbSwt-7odQ) for this unit.
 - 📖 Read the advanced ["Agents Companion"](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Agents%20Companion.pdf).
-
----
 
 Master the art of creating advanced AI agents by exploring their fundamental components and the step-by-step development cycle. You’ll also dive into cutting-edge agent architectures and methodologies, including:
 - Multi-agent systems
