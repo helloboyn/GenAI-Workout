@@ -42,25 +42,18 @@
 - 📖 To complement the podcast, read the ["Generative AI Agents" whitepaper](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Agents.pdf).
 - 💻 Complete these codelabs on Kaggle:
   1. [Talk](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/function-calling-with-the-gemini-api.ipynb) to a database with function calling.
-  2. [Build](https://www.kaggle.com/code/kernelsandy/build-an-agentic-ordering-system-in-langgraph) an agentic ordering system in LangGraph.
+  2. [Build](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/building-an-agent-with-langgraph.ipynb) an agentic ordering system in LangGraph.
 
 ---
 
-## 2. [Optional] Advanced 3b - **"Agents Companion"**
+## 4. Advanced Agents Companion
 
-- 🎧 Listen to the [summary podcast episode](youtube.com/watch?v=D3Kaqz7VW28) for this unit.
-- 📖 Read the advanced ["Agents Companion"]().
-- 🤖 Want to have an [interactive conversation](https://notebooklm.google.com/)? Try adding the whitepaper to NotebookLM.
+- 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=7rbSwt-7odQ) for this unit.
+- 📖 Read the advanced ["Agents Companion"](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Agents%20Companion.pdf).
 
 ---
 
-## 💡 What You’ll Learn
-
-Learn to build sophisticated AI agents by understanding their core components and the iterative development process. You'll also learn more about advanced agentic architectures and approaches such as:
-
-- Multi-agent systems  
-- Agent evaluation  
-- And more!
-
-The codelabs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot (including an example using Gemini 2.0’s [Live API](https://ai.google.dev/gemini-api/docs/function-calling)), and learn how to build a LangGraph agent that takes orders in a café.
+Master the art of creating advanced AI agents by exploring their fundamental components and the step-by-step development cycle. You’ll also dive into cutting-edge agent architectures and methodologies, including:
+- Multi-agent systems
+- Agent performance evaluation
 
