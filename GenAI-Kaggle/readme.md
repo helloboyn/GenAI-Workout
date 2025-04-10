@@ -1,4 +1,4 @@
-### Welcome to Gen AI Intensive Course with Google!
+# Welcome to Gen AI Intensive Course with Google!
 
 ## 1. Foundational Large Language Models & Text Generation:
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U) for all the unit. 
