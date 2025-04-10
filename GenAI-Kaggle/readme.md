@@ -51,7 +51,7 @@ Master the art of creating advanced AI agents by exploring their fundamental com
 - 🧪 Complete these codelabs on Kaggle:
   - [Tune a Gemini model](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/fine-tuning-a-custom-model.ipynb) for a custom task
   - [Use Google Search data](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/google-search-grounding.ipynb) in generation
-  - 
+
 In the codelabs, you'll learn how to:
 - Add real-world data to a model using Google Search
 - Visualize it with plotting tools via the Live API
