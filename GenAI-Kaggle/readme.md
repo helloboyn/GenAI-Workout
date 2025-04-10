@@ -38,10 +38,10 @@
 
 ## 3. Generative AI Agents
 
-- 🎧 Listen to the [summary podcast episode](https://open.spotify.com/episode/4DuquhTWzW5RXnMQfCgmQj) for this unit.
-- 📖 To complement the podcast, read the ["Generative AI Agents" whitepaper](https://storage.googleapis.com/deepmind-media/gemini/generative-ai-agents.pdf).
+- 🎧 Listen to the [summary podcast episode](youtube.com/watch?v=D3Kaqz7VW28) for this unit.
+- 📖 To complement the podcast, read the ["Generative AI Agents" whitepaper](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Agents.pdf).
 - 💻 Complete these codelabs on Kaggle:
-  1. [Talk](https://www.kaggle.com/code/kernelsandy/talk-to-a-database-with-function-calling) to a database with function calling.
+  1. [Talk](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/function-calling-with-the-gemini-api.ipynb) to a database with function calling.
   2. [Build](https://www.kaggle.com/code/kernelsandy/build-an-agentic-ordering-system-in-langgraph) an agentic ordering system in LangGraph.
 
 ---
