@@ -3,7 +3,7 @@
 
 ## 1. Complete the Intro Unit – "Foundational Large Language Models & Text Generation"
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U) for this unit. 
-- 📖 Read the "1 Foundational Large Language Models & Text Generation" [whitepaper](https://github.com/helloboyn/GenAI-Workout/GenAI-Kaggle/Foundational Large Language Models & Text Generation.pdf)
+- 📖 Read the "1 Foundational Large Language Models & Text Generation" [whitepaper](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Foundational%20Large%20Language%20Models%20%26%20Text%20Generation.pdf)
 
 ## 2. Complete Unit 1 – "Prompt Engineering"
 - 🎧 Listen to the summary podcast episode for this unit.
