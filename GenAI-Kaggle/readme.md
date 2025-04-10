@@ -9,8 +9,8 @@
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY) for this unit.
 - 📖 Read the "[Prompt Engineering](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Prompt%20Engineering.pdf)"
 - 🏗️ Complete these codelabs on Kaggle:
-  - [Prompting fundamentals](https://www.kaggle.com/)
-  - [Evaluation and structured data](https://www.kaggle.com/)
+  - [Prompting fundamentals](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Prompting%20fundamentals.ipynb)
+  - [Evaluation and structured data](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Evaluation-and-structured-output.ipynb)
 - ⚠️ **Make sure to phone verify your Kaggle account before starting, it's necessary for the codelabs.**
 
 ## 🚀 Want to have an interactive conversation?
