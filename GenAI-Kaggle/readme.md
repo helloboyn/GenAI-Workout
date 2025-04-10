@@ -1,8 +1,4 @@
-[Whitepaper Companion Podcast](https://youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&si=_GDz2GWD57pS2cOg)
-
-[Gen AI Intensive Course with Google Live](https://youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&si=iyUSv3USuEF-ysfc)
-
-- 💻 
+### Welcome to Gen AI Intensive Course with Google!
 
 ## 1. Foundational Large Language Models & Text Generation:
 - 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U) for all the unit. 
@@ -71,4 +67,6 @@ In the codelabs, you'll learn how to:
 
 Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications such as AgentOps for agentic applications.
 
+[Whitepaper Companion Podcast](https://youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&si=_GDz2GWD57pS2cOg)
 
+[Gen AI Intensive Course with Google Live](https://youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&si=iyUSv3USuEF-ysfc)
