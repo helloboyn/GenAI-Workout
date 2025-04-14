@@ -60,7 +60,7 @@ In the codelabs, you'll learn how to:
 
 ## 7. MLOps for Generative AI:
 
- 🎧 Listen to the [summary podcast episode](youtube.com/watch?v=Hbk8UXavHrk) for this unit.
+ 🎧 Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Hbk8UXavHrk) for this unit.
 - 📄 To complement the podcast, read the ["MLOps for Generative AI"](https://github.com/helloboyn/GenAI-Workout/blob/main/GenAI-Kaggle/Operationalizing%20Generative%20AI%20on%20Vertex%20AI%20using%20MLOps.pdf).
 - 🧪 We will do a code walkthrough and live demo of [agent-starter-pack]([goo.gle/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)), a resource created for making MLOps for Gen AI easier and accelerating the path to production. 
 
